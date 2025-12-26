@@ -1,4 +1,4 @@
-import { useState, ReactNode } from 'react';
+import { useState, type ReactNode } from 'react';
 import { 
   Network, Router, Wifi, AlertTriangle, CheckCircle, XCircle, 
   ArrowRight, ArrowLeft, BookOpen, RefreshCw, Server, Smartphone, Monitor, 
